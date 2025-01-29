@@ -37,6 +37,13 @@ Bu proje MIT Lisansı altında sunulmaktadır.
 
 ---
 
+# Images From the Project
+### 1- Login Page
+![Ekran görüntüsü 2022-06-21 024644](https://user-images.githubusercontent.com/48470345/174691129-4e64a185-aaa8-4929-b1ac-e6ab4358175b.png)
+### 2- Register Page
+![Ekran görüntüsü 2022-06-21 024625](https://user-images.githubusercontent.com/48470345/174691135-e13cf4d4-db7e-4a24-ac44-aa1d53d457c9.png)
+### 3- Profile Page
+![Screenshot]("")
 # instagram-clone-app
 ### Features
 - This project includes MongoDB, Express JS, Socket IO, React, Material UI, Heroku;
